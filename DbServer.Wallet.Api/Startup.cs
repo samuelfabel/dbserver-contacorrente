@@ -65,7 +65,7 @@ namespace DbServer.Wallet.Api
             {
                 a.SwaggerDoc("v1", new Info
                 {
-                    Title = "Drivers",
+                    Title = "Conta Corrente",
                     Version = "v1",
                     Description = "Api de demonstração de conta corrente"
                 });
